@@ -17,8 +17,6 @@ python3 -m venv .venv
 .venv/Scripts/Activate/bat
 # Mac or Linux
 source .venv/bin/activate
-
-
 ```
 3. install `requirements.txt` using pip
 ```
